@@ -1,19 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sandesh Nawarathne</h1>
-<h3 align="center">Student and a Freelancer on IT Field.</h3>
+<div align="center" width="50">
+    <img alt="sandeshnawarathne4@gmail.com" />
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sandesh Nawarathne</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sana20020308&label=Profile%20views&color=0e75b6&style=flat" alt="sana20020308" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-- 🌱 I’m currently learning **JAVA, C#, PHP, HTML, CSS**
+## About Me :
 
-- 📫 How to reach me **sandeshnawarathne4@gmail.com**
+- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡'Lives in **Dalugama Sri Lanka**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/sandeshnawarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeshnawarathne" height="30" width="40" /></a>
-<a href="https://instagram.com/sandesh_nawarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandesh_nawarathne" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## Connect with me ☕ :
 
+<br>
 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+
+Last edited on: 30/06/2022
